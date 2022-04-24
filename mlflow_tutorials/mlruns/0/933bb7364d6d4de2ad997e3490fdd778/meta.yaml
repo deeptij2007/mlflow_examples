@@ -1,0 +1,15 @@
+artifact_uri: file:///home/deepti/mlflow/examples/sklearn_elasticnet_wine/mlruns/0/933bb7364d6d4de2ad997e3490fdd778/artifacts
+end_time: 1650823137430
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+name: ''
+run_id: 933bb7364d6d4de2ad997e3490fdd778
+run_uuid: 933bb7364d6d4de2ad997e3490fdd778
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1650823135519
+status: 3
+tags: []
+user_id: deepti
